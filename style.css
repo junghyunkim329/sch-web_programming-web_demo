@@ -146,6 +146,6 @@ textarea {
   margin: auto 10px;
 }
 
-#time {
-  margin: 0;
+#write::placeholder {
+  color: rgb(144, 187, 133);
 }
