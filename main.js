@@ -33,3 +33,7 @@ function hide() {
   document.getElementById('fig').src = ''
   document.getElementById('desc').innerHTML = ''
 }
+
+// 확인 필요
+const audio = document.getElementById('myAudio')
+audio.volume = 0.5
